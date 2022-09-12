@@ -1,7 +1,7 @@
 👋 Hi, I’m Sakib
-- 👀 I’m a Software Engineering graduate
-- 🌱 I’m currently learning JAVASCRIPT, React, Node.js,MongoDb and Express
-- 💞️ I’m looking to collaborate on js development
+- 👀 I’m a Software Engineering graduate.
+- 🌱 I’m currently working on   React, Node.js, MongoDb and Express  Mern  stack development.
+- 💞️ I’m looking to collaborate on web app development 
 - 📫 You can find me on https://www.linkedin.com/in/sakibsaizeed/
 
 <!---
