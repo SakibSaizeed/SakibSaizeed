@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on dynamic web engineering and both front and back end development with modern web tech. 
 - - 📫 You can find my portfolios on [sakibsaizeed.netlify.app](https://sakibsaizeed.netlify.app/)
 - 📫 You can find me on https://www.linkedin.com/in/sakibsaizeed/
-- 
 
 <!---
 SakibSaizeed/SakibSaizeed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
