@@ -3,7 +3,7 @@
 ## About Me
 - 👀 I’m a Software Engineer passionate about crafting exceptional web experiences with React.js.
 - 🌱 Currently working on React.js based web application development.
-- 💻 Explore my latest dev records on [GitHub](https://github.com/Sakib-Tcl).
+- 💻 Explore my latest dev records on another git account [GitHub](https://github.com/Sakib-Tcl).
 
 ## Portfolio
 - 🌐 Check out my projects and skills on [sakibsaizeed.netlify.app](https://sakibsaizeed.netlify.app/). It's not just a portfolio; it's a journey through my coding adventures!
