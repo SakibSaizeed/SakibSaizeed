@@ -12,6 +12,13 @@
 - 📱 Find me on [LinkedIn](https://www.linkedin.com/in/sakibsaizeed/) for a professional chat.
 - 🤖 Dive into my code world on [GitHub](https://github.com/Sakib-Tcl). Contributions and feedback are always welcome.
 
+
+## Tech Stack
+- ⚛️ React.js
+- 🖋️ Express.js
+- 🚀 JavaScript
+- 🌀 Tailwind CSS
+
 ## Collaboration Vibes
 - 💞️ Seeking exciting collaborations in dynamic web engineering, bridging both front and back end development using cutting-edge web technologies. Let's build something awesome together!
 
